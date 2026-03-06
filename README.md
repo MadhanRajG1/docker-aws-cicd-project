@@ -1,4 +1,5 @@
 Dockerized Web Application Deployment on AWS EC2
+
 1)Project Overview:
 
 This project demonstrates how to containerize a Python web application using Docker and deploy it on an AWS EC2 instance.
@@ -117,5 +118,6 @@ Open browser:
 http://EC2_PUBLIC_IP
 
 You should see:
+
 
 Hello! This app is running inside Docker on AWS EC2.
